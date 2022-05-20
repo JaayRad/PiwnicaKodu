@@ -1,5 +1,5 @@
 .page-header {
-  background-color: #a80000;
+  background-color: #f6f6f6;
   text-decoration: none;
   width: 100%;
   text-decoration: none;
@@ -49,10 +49,7 @@
   float: right;
 }
 
-.post-form textarea,
-.post-form input {
-  width: 100%;
-}
+
 
 .top-menu,
 .top-menu:hover,
@@ -65,10 +62,6 @@
   padding: 10px 0;
 }
 
-.plus {
-  float: right;
-  margin-right: 20px;
-}
 
 .post {
   margin-bottom: 15px;
